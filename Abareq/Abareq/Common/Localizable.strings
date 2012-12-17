@@ -1,0 +1,29 @@
+/* 
+  ArabicNames.strings
+  iWS
+
+  Created by ALI AL-AWADH on 8/7/12.
+  Copyright (c) 2012 INNOFLAME. All rights reserved.
+*/
+
+"Adaia" = "الأدعية";
+
+
+"Zeiarat" = "الزيارات";
+
+"A3malHajj" = "أعمال الحج";
+
+"Save" = "حفظ";
+"Copy" = "نسخ";
+"Email" = "إرسال";
+"Cancel" = "إلغاء";
+
+
+"News_sec1" = "أخبار عامة";
+"News_sec2" = "الدينية";
+"News_sec3" = "نسائيات";
+"News_sec4" = "الأفراح";
+"News_sec5" = "الراحلون";
+"News_sec6" = "مواليد السعادة";
+"News_sec7" = "منوعات";
+"News_sec8" = "الاعلانات";
